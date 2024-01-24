@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Songs">
+      <UniqueIdentifier>{bf6a1e8d-d0dd-4db6-9e8d-cdf4edc5a54f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyLinkedList_.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaySong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Songs\7-Years.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\505.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\After-Dark.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Another-Love.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Apocalypse.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Arcade.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Atlantis.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\BABYDOLL-Speed.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Butterflies.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Cupid-Twin-Ver.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Dancing-With-Your-Ghost.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Dandelions-slowed-reverb.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Die-For-You.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\double-take.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\drivers-license.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\gamble.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Glimpse-of-Us.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\harleys-in-hawaii-slowed-reverb.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Heather.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Hurts-So-Good.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\i-m-yours-sped-up.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\In-the-Name-of-Love.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\It-s-Not-So-Bad.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\I-ve-got-my-eye-on-you-Slowed.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\I-Wanna-Be-Yours.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\i-won-t-let-you-feel-alone-again.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Lady-Hear-Me-Tonight.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Left-and-Right-Feat-Jung-Kook-of-BTS.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Lose-Yourself.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\middle-of-the-night-sped-up-tiktok-version.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Mockingbird-Sped-Up.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\moonlight dhruv.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Moonlight.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Nonsense.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\novocaine.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Past-Lives.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Play-Date.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Royalty.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Save-Your-Tears.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Say-Yes-To-Heaven.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Set-Fire-to-the-Rain.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\SLOW-DANCING-IN-THE-DARK.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Smooth-Operator-Single-Version.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\SNAP.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Softcore.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Somewhere-Only-We-Know.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Starboy.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Summertime-Sadness.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Superman.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Sway.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Sweater-Weather.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\The-Less-I-Know-The-Better.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\The-Real-Slim-Shady.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\tonight.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Water-Fountain.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+    <Media Include="Songs\Without-Me.mp3">
+      <Filter>Source Files\Songs</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Queue_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoublyLinkedList_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaySong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
